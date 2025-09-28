@@ -1,4 +1,4 @@
-namespace CoreRun.Application
+namespace CoreRun.API
 {
     public class WeatherForecast
     {
