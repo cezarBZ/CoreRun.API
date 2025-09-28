@@ -10,4 +10,10 @@
     <ProjectReference Include="..\CoreRun.Domain\CoreRun.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="EntityConfigurations\" />
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
 </Project>
